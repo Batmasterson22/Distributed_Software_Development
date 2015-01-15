@@ -1,4 +1,4 @@
-﻿//Jason R Hodges - ASUID = 1205172549
+﻿//Jason R Hodges
 //CSE 445 - Assignment 01
 //Service Contract containin the 2 operations for tempature conversion
 using System;

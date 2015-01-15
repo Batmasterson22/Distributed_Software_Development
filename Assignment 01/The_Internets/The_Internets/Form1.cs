@@ -1,4 +1,4 @@
-﻿//Jason R Hodges - ASUID = 1205172549
+﻿//Jason R Hodges
 //CSE 445 - Assignment 01
 //Adds function to the simple web browser, i.e. navagate to a url, Stock quote service, and Encrpt/Decrypt service
 using System;

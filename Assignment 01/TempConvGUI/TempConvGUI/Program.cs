@@ -1,4 +1,4 @@
-﻿//Jason R Hodges - ASUID = 1205172549
+﻿//Jason R Hodges
 //CSE 445 - Assignment 01
 using System;
 using System.Collections.Generic;
