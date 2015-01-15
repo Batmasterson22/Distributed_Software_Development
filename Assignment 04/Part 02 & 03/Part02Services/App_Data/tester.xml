@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Persons>
+  <Person>
+    <Name>
+      <First>John</First>
+      <Last>Doe</Last>
+    </Name>
+    <Credential>
+      <Id>jdoe</Id>
+      <Password Encryption="Yes">xyz</Password>
+    </Credential>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell Provider="TMobile">4801234567</Cell>
+    </Phone>
+    <Categpry>Friend</Categpry>
+  </Person>
+  <Person>
+    <Name>
+      <First>jason</First>
+      <Last>hodges</Last>
+    </Name>
+    <Credential>
+      <Id>jaho</Id>
+      <Password Encryption="yes">5242</Password>
+    </Credential>
+    <Phone>
+      <Work>4802421565</Work>
+      <Cell Provider="Sprint">4805298594</Cell>
+    </Phone>
+    <Categpry>Friend</Categpry>
+  </Person>
+  <Person>
+    <Name>
+      <First>mark</First>
+      <Last>thompson</Last>
+    </Name>
+    <Credential>
+      <Id>math</Id>
+      <Password Encryption="Yes">5245</Password>
+    </Credential>
+    <Phone>
+      <Work>4802452652</Work>
+      <Cell Provider="Sprint">4807425868</Cell>
+    </Phone>
+    <Categpry>Family</Categpry>
+  </Person>
+</Persons>

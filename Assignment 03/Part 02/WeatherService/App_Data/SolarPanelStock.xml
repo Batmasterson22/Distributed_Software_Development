@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SolarPanel>
+  <Model>
+    <XCS1432>
+      <Quantity>250</Quantity>
+      <Price>220</Price>
+    </XCS1432>
+    <XDF2283>
+      <Quantity>230</Quantity>
+      <Price>235</Price>
+    </XDF2283>
+    <XKS5476>
+      <Quantity>3</Quantity>
+      <Price>250</Price>
+    </XKS5476>
+  </Model>
+</SolarPanel>

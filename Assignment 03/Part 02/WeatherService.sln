@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherService", "WeatherService\WeatherService.csproj", "{78CB5183-9F64-4A04-A769-30016C6E6673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestService", "TestService\TestService.csproj", "{1E639BFD-BA02-42EE-979B-0F22E0C29B86}"
+	ProjectSection(ProjectDependencies) = postProject
+		{78CB5183-9F64-4A04-A769-30016C6E6673} = {78CB5183-9F64-4A04-A769-30016C6E6673}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TestClient", "http://localhost:60844", "{2E45A7B2-2B13-47B8-942C-C5281F7C9DC7}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60844"
+		Debug.AspNetCompiler.PhysicalPath = "TestClient\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60844\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60844"
+		Release.AspNetCompiler.PhysicalPath = "TestClient\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60844\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "TestClient\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{78CB5183-9F64-4A04-A769-30016C6E6673} = {78CB5183-9F64-4A04-A769-30016C6E6673}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardService", "CreditCardService\CreditCardService.csproj", "{387F384D-D647-415D-8701-2FFEB5D8BF17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78CB5183-9F64-4A04-A769-30016C6E6673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CB5183-9F64-4A04-A769-30016C6E6673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CB5183-9F64-4A04-A769-30016C6E6673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CB5183-9F64-4A04-A769-30016C6E6673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E639BFD-BA02-42EE-979B-0F22E0C29B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E639BFD-BA02-42EE-979B-0F22E0C29B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E639BFD-BA02-42EE-979B-0F22E0C29B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E639BFD-BA02-42EE-979B-0F22E0C29B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E45A7B2-2B13-47B8-942C-C5281F7C9DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E45A7B2-2B13-47B8-942C-C5281F7C9DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E45A7B2-2B13-47B8-942C-C5281F7C9DC7}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E45A7B2-2B13-47B8-942C-C5281F7C9DC7}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{387F384D-D647-415D-8701-2FFEB5D8BF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387F384D-D647-415D-8701-2FFEB5D8BF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387F384D-D647-415D-8701-2FFEB5D8BF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387F384D-D647-415D-8701-2FFEB5D8BF17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Persons"
+    targetNamespace="http://tempuri.org/Persons.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Persons.xsd"
+    xmlns:mstns="http://tempuri.org/Persons.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="Persons">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="Person">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="First" type="xs:string" />
+                    <xs:element name="Last" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Credential">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Id" type="xs:string" />
+                    <xs:element name="Password">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="Encryption" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Phone">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Work" type="xs:unsignedLong" />
+                    <xs:element name="Cell">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:unsignedLong">
+                            <xs:attribute name="Provider" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Categpry" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

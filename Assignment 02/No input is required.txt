@@ -1,0 +1,1 @@
+No input is required. It changes prices using a random number generator, orders chicken depending on demand, and calculates the total with fixed variabels.

@@ -1,0 +1,209 @@
+********Chicken has changed price to $8 from $10********
+
+++++++++CHICKEN SALE! Now at the low price of $8+++++++
+-Store 1 has requested a new order at 6/8/2014 5:54:05 PM
+-Store 2 has requested a new order at 6/8/2014 5:54:05 PM
+~Store 2 your order is now complete: The total charges for
+99 chickens with 8.5% tax and $0.70 S&H per chicken is $928.62
+Process time: 00:00:01.0020573
+
+~Store 1 your order is now complete: The total charges for
+64 chickens with 8.5% tax and $0.70 S&H per chicken is $600.32
+Process time: 00:00:01.0160581
+
+-Store 3 has requested a new order at 6/8/2014 5:54:05 PM
+-Store 4 has requested a new order at 6/8/2014 5:54:06 PM
+~Store 3 your order is now complete: The total charges for
+59 chickens with 8.5% tax and $0.70 S&H per chicken is $553.42
+Process time: 00:00:02.0061148
+
+-Store 5 has requested a new order at 6/8/2014 5:54:06 PM
+~Store 4 your order is now complete: The total charges for
+68 chickens with 8.5% tax and $0.70 S&H per chicken is $637.84
+Process time: 00:00:01.0050575
+
+********Chicken has changed price to $7 from $8********
+
+++++++++CHICKEN SALE! Now at the low price of $7+++++++
+-Store 1 has requested a new order at 6/8/2014 5:54:07 PM
+~Store 5 your order is now complete: The total charges for
+79 chickens with 8.5% tax and $0.70 S&H per chicken is $655.31
+Process time: 00:00:02.0021145
+
+-Store 3 has requested a new order at 6/8/2014 5:54:07 PM
+~Store 1 your order is now complete: The total charges for
+58 chickens with 8.5% tax and $0.70 S&H per chicken is $481.11
+Process time: 00:00:01.0020573
+
+-Store 4 has requested a new order at 6/8/2014 5:54:08 PM
+~Store 3 your order is now complete: The total charges for
+51 chickens with 8.5% tax and $0.70 S&H per chicken is $423.05
+Process time: 00:00:01.5040860
+
+-Store 5 has requested a new order at 6/8/2014 5:54:08 PM
+~Store 4 your order is now complete: The total charges for
+71 chickens with 8.5% tax and $0.70 S&H per chicken is $588.95
+Process time: 00:00:01.5020859
+
+********Chicken has changed price to $8 from $7********
+********Chicken has changed price to $5 from $8********
+
+++++++++CHICKEN SALE! Now at the low price of $5+++++++
+-Store 2 has requested a new order at 6/8/2014 5:54:10 PM
+~Store 5 your order is now complete: The total charges for
+83 chickens with 8.5% tax and $0.70 S&H per chicken is $508.38
+Process time: 00:00:01.5050861
+
+-Store 3 has requested a new order at 6/8/2014 5:54:10 PM
+********Chicken has changed price to $6 from $5********
+~Store 2 your order is now complete: The total charges for
+50 chickens with 8.5% tax and $0.70 S&H per chicken is $360.50
+Process time: 00:00:01.0030573
+
+*************Chicken has not changed price*************
+~Store 3 your order is now complete: The total charges for
+64 chickens with 8.5% tax and $0.70 S&H per chicken is $461.44
+Process time: 00:00:01.0040574
+
+********Chicken has changed price to $9 from $6********
+********Chicken has changed price to $5 from $9********
+
+++++++++CHICKEN SALE! Now at the low price of $5+++++++
+-Store 1 has requested a new order at 6/8/2014 5:54:12 PM
+-Store 2 has requested a new order at 6/8/2014 5:54:12 PM
+~Store 1 your order is now complete: The total charges for
+65 chickens with 8.5% tax and $0.70 S&H per chicken is $398.13
+Process time: 00:00:01.0030574
+
+~Store 2 your order is now complete: The total charges for
+85 chickens with 8.5% tax and $0.70 S&H per chicken is $520.63
+Process time: 00:00:01.0040575
+
+-Store 4 has requested a new order at 6/8/2014 5:54:12 PM
+********Chicken has changed price to $6 from $5********
+********Chicken has changed price to $7 from $6********
+~Store 4 your order is now complete: The total charges for
+59 chickens with 8.5% tax and $0.70 S&H per chicken is $489.41
+Process time: 00:00:02.0091149
+
+********Chicken has changed price to $5 from $7********
+
+++++++++CHICKEN SALE! Now at the low price of $5+++++++
+-Store 1 has requested a new order at 6/8/2014 5:54:14 PM
+-Store 3 has requested a new order at 6/8/2014 5:54:14 PM
+~Store 1 your order is now complete: The total charges for
+97 chickens with 8.5% tax and $0.70 S&H per chicken is $594.13
+Process time: 00:00:01.0030573
+
+-Store 4 has requested a new order at 6/8/2014 5:54:14 PM
+~Store 3 your order is now complete: The total charges for
+57 chickens with 8.5% tax and $0.70 S&H per chicken is $349.13
+Process time: 00:00:01.0040574
+
+-Store 5 has requested a new order at 6/8/2014 5:54:15 PM
+*************Chicken has not changed price*************
+~Store 4 your order is now complete: The total charges for
+55 chickens with 8.5% tax and $0.70 S&H per chicken is $336.88
+Process time: 00:00:02.0231158
+
+********Chicken has changed price to $7 from $5********
+~Store 5 your order is now complete: The total charges for
+92 chickens with 8.5% tax and $0.70 S&H per chicken is $763.14
+Process time: 00:00:01.0260587
+
+********Chicken has changed price to $8 from $7********
+********Chicken has changed price to $5 from $8********
+
+++++++++CHICKEN SALE! Now at the low price of $5+++++++
+-Store 2 has requested a new order at 6/8/2014 5:54:17 PM
+-Store 3 has requested a new order at 6/8/2014 5:54:17 PM
+********Chicken has changed price to $6 from $5********
+~Store 2 your order is now complete: The total charges for
+90 chickens with 8.5% tax and $0.70 S&H per chicken is $648.90
+Process time: 00:00:01.0020573
+
+*************Chicken has not changed price*************
+~Store 3 your order is now complete: The total charges for
+87 chickens with 8.5% tax and $0.70 S&H per chicken is $627.27
+Process time: 00:00:01.0020573
+
+********Chicken has changed price to $8 from $6********
+********Chicken has changed price to $5 from $8********
+
+++++++++CHICKEN SALE! Now at the low price of $5+++++++
+-Store 4 has requested a new order at 6/8/2014 5:54:19 PM
+-Store 5 has requested a new order at 6/8/2014 5:54:19 PM
+********Chicken has changed price to $9 from $5********
+~Store 4 your order is now complete: The total charges for
+99 chickens with 8.5% tax and $0.70 S&H per chicken is $1,036.04
+Process time: 00:00:01.0020573
+
+********Chicken has changed price to $5 from $9********
+
+++++++++CHICKEN SALE! Now at the low price of $5+++++++
+~Store 5 your order is now complete: The total charges for
+68 chickens with 8.5% tax and $0.70 S&H per chicken is $416.50
+Process time: 00:00:01.0030574
+
+-Store 1 has requested a new order at 6/8/2014 5:54:20 PM
+-Store 3 has requested a new order at 6/8/2014 5:54:20 PM
+*************Chicken has not changed price*************
+~Store 1 your order is now complete: The total charges for
+82 chickens with 8.5% tax and $0.70 S&H per chicken is $502.25
+Process time: 00:00:01.0220585
+
+********Chicken has changed price to $9 from $5********
+~Store 3 your order is now complete: The total charges for
+97 chickens with 8.5% tax and $0.70 S&H per chicken is $1,015.11
+Process time: 00:00:01.0030573
+
+*************Chicken has not changed price*************
+********Chicken has changed price to $8 from $9********
+
+++++++++CHICKEN SALE! Now at the low price of $8+++++++
+-Store 2 has requested a new order at 6/8/2014 5:54:22 PM
+-Store 4 has requested a new order at 6/8/2014 5:54:22 PM
+~Store 2 your order is now complete: The total charges for
+95 chickens with 8.5% tax and $0.70 S&H per chicken is $891.10
+Process time: 00:00:01.0020573
+
+~Store 4 your order is now complete: The total charges for
+94 chickens with 8.5% tax and $0.70 S&H per chicken is $881.72
+Process time: 00:00:01.0020573
+
+-Store 5 has requested a new order at 6/8/2014 5:54:22 PM
+********Chicken has changed price to $9 from $8********
+********Chicken has changed price to $6 from $9********
+
+++++++++CHICKEN SALE! Now at the low price of $6+++++++
+-Store 1 has requested a new order at 6/8/2014 5:54:24 PM
+~Store 5 your order is now complete: The total charges for
+74 chickens with 8.5% tax and $0.70 S&H per chicken is $533.54
+Process time: 00:00:02.0041146
+
+-Store 5 has requested a new order at 6/8/2014 5:54:24 PM
+********Chicken has changed price to $8 from $6********
+~Store 1 your order is now complete: The total charges for
+75 chickens with 8.5% tax and $0.70 S&H per chicken is $703.50
+Process time: 00:00:01.0020456
+
+********Chicken has changed price to $9 from $8********
+~Store 5 your order is now complete: The total charges for
+97 chickens with 8.5% tax and $0.70 S&H per chicken is $909.86
+Process time: 00:00:01.0060455
+
+*************Chicken has not changed price*************
+*************Chicken has not changed price*************
+********Chicken has changed price to $7 from $9********
+
+++++++++CHICKEN SALE! Now at the low price of $7+++++++
+-Store 2 has requested a new order at 6/8/2014 5:54:27 PM
+-Store 3 has requested a new order at 6/8/2014 5:54:27 PM
+~Store 2 your order is now complete: The total charges for
+66 chickens with 8.5% tax and $0.70 S&H per chicken is $547.47
+Process time: 00:00:01.0000014
+
+~Store 3 your order is now complete: The total charges for
+62 chickens with 8.5% tax and $0.70 S&H per chicken is $514.29
+Process time: 00:00:01.0050014
+
