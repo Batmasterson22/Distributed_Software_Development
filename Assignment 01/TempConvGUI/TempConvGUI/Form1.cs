@@ -1,4 +1,4 @@
-﻿//Jason R Hodges - ASUID = 1205172549
+﻿//Jason R Hodges
 //CSE 445 - Assignment 01
 //Adds function to the simple temp conversion GUI
 using System;
